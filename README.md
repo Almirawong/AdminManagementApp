@@ -15,7 +15,7 @@ After installing SBT, you can check the installation by running **`sbt`** in you
 
 
 ## How to Run the App
-1. In the project directory, you can run:
+1. In the terminal, you can run:
 ```
 sbt
 ```
