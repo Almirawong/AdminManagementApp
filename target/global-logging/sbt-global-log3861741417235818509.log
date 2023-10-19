@@ -1,9 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(collectAnalyses, None, Some(CommandSource(network-1)))[0m
-[0m[[0m[0mdebug[0m] [0m[0munmatched Processing event for requestId None: None[0m
-[0m[[0m[0mdebug[0m] [0m[0mUnhandled notification received: initialized: JsonRpcNotificationMessage(2.0, initialized, {})[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / collectAnalyses[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[0mdebug[0m] [0m[0manalysis location (C:\Users\almir\Project_19011832\AdminApp\target\scala-2.12\zinc\inc_compile_2.12.zip,true)[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 3 s, completed Oct 19, 2023 5:39:30 PM[0m
-[0m[[0m[0mdebug[0m] [0m[0munmatched Done event for requestId None: None[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
