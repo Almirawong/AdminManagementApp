@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 19 16:09:54 SGT 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-018b-46fb-dfc3-00000cec0108 
+on database directory C:\Users\almir\Project_19011832\AdminApp\myDB with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
+Loaded from file:/C:/Users/almir/Project_19011832/AdminApp/target/bg-jobs/sbt_5b084084/target/5c7e8554/2903ffb3/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_331-b09
+user.dir=C:\Users\almir\Project_19011832\AdminApp
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
